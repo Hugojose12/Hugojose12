@@ -16,5 +16,5 @@ El universo del frontend es una galaxia en constante crecimiento. Siempre en la 
 
 🔗 **Conversemos:**
 
-* [Tu perfil de LinkedIn]([https://www.linkedin.com/in/[tu-usuario-de-linkedin]https://www.linkedin.com/in/hugo-rivero-dev]) - Conectemos para explorar sinergias profesionales.
-* [Tu correo electrónico](hugo200440@gmail.com) - Abierto a colaboraciones y oportunidades interesantes.
+* [Mi perfil de LinkedIn]([https://www.linkedin.com/in/hugo-rivero-dev]) - Conectemos para explorar sinergias profesionales.
+* [correo electrónico](hugo200440@gmail.com) - Abierto a colaboraciones y oportunidades interesantes.
